@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\user\obj\Debug\user.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\user\obj\Debug\user_management.Form1.resources
+C:\Users\ASUS\source\repos\user\obj\Debug\user.Properties.Resources.resources
+C:\Users\ASUS\source\repos\user\obj\Debug\user.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\user\bin\Debug\user.exe.config
+C:\Users\ASUS\source\repos\user\bin\Debug\user.exe
+C:\Users\ASUS\source\repos\user\bin\Debug\user.pdb
+C:\Users\ASUS\source\repos\user\obj\Debug\user.exe
+C:\Users\ASUS\source\repos\user\obj\Debug\user.pdb
+C:\Users\ASUS\source\repos\user\obj\Debug\user_management.XemThemForm.resources
