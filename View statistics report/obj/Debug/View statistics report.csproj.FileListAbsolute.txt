@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\View statistics report\bin\Debug\View statistics report.exe.config
+C:\Users\ASUS\source\repos\View statistics report\bin\Debug\View statistics report.exe
+C:\Users\ASUS\source\repos\View statistics report\bin\Debug\View statistics report.pdb
+C:\Users\ASUS\source\repos\View statistics report\obj\Debug\View statistics report.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\View statistics report\obj\Debug\View_statistics_report.Properties.Resources.resources
+C:\Users\ASUS\source\repos\View statistics report\obj\Debug\View statistics report.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\View statistics report\obj\Debug\View statistics report.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\View statistics report\obj\Debug\View statistics report.exe
+C:\Users\ASUS\source\repos\View statistics report\obj\Debug\View statistics report.pdb
+C:\Users\ASUS\source\repos\View statistics report\obj\Debug\ViewStatisticsReport.Form1.resources
