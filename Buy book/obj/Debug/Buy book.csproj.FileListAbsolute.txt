@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Buy book\bin\Debug\Buy book.exe.config
+C:\Users\ASUS\source\repos\Buy book\bin\Debug\Buy book.exe
+C:\Users\ASUS\source\repos\Buy book\bin\Debug\Buy book.pdb
+C:\Users\ASUS\source\repos\Buy book\obj\Debug\Buy book.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Buy book\obj\Debug\Buy_book.Form1.resources
+C:\Users\ASUS\source\repos\Buy book\obj\Debug\Buy_book.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Buy book\obj\Debug\Buy book.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Buy book\obj\Debug\Buy book.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Buy book\obj\Debug\Buy book.exe
+C:\Users\ASUS\source\repos\Buy book\obj\Debug\Buy book.pdb
+C:\Users\ASUS\source\repos\Buy book\obj\Debug\Buy_book.giohang.resources
