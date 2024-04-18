@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Giỏ hàng\bin\Debug\Giỏ hàng.exe.config
+C:\Users\ASUS\source\repos\Giỏ hàng\bin\Debug\Giỏ hàng.exe
+C:\Users\ASUS\source\repos\Giỏ hàng\bin\Debug\Giỏ hàng.pdb
+C:\Users\ASUS\source\repos\Giỏ hàng\obj\Debug\Giỏ hàng.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Giỏ hàng\obj\Debug\Giỏ_hàng.Form1.resources
+C:\Users\ASUS\source\repos\Giỏ hàng\obj\Debug\Giỏ_hàng.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Giỏ hàng\obj\Debug\Giỏ hàng.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Giỏ hàng\obj\Debug\Giỏ hàng.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Giỏ hàng\obj\Debug\Giỏ hàng.exe
+C:\Users\ASUS\source\repos\Giỏ hàng\obj\Debug\Giỏ hàng.pdb
