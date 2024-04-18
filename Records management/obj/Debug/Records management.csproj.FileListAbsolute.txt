@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Records management\bin\Debug\Records management.exe.config
+C:\Users\ASUS\source\repos\Records management\bin\Debug\Records management.exe
+C:\Users\ASUS\source\repos\Records management\bin\Debug\Records management.pdb
+C:\Users\ASUS\source\repos\Records management\obj\Debug\Records management.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Records management\obj\Debug\Records_management.Form1.resources
+C:\Users\ASUS\source\repos\Records management\obj\Debug\Records_management.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Records management\obj\Debug\Records management.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Records management\obj\Debug\Records management.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Records management\obj\Debug\Records management.exe
+C:\Users\ASUS\source\repos\Records management\obj\Debug\Records management.pdb
