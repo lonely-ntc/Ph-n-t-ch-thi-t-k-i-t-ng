@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Order management\bin\Debug\Order management.exe.config
+C:\Users\ASUS\source\repos\Order management\bin\Debug\Order management.exe
+C:\Users\ASUS\source\repos\Order management\bin\Debug\Order management.pdb
+C:\Users\ASUS\source\repos\Order management\obj\Debug\Order management.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Order management\obj\Debug\Order_management.Form1.resources
+C:\Users\ASUS\source\repos\Order management\obj\Debug\Order_management.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Order management\obj\Debug\Order management.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Order management\obj\Debug\Order management.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Order management\obj\Debug\Order management.exe
+C:\Users\ASUS\source\repos\Order management\obj\Debug\Order management.pdb
